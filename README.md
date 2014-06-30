@@ -8,9 +8,7 @@ A [Powerline](https://github.com/Lokaltog/powerline) segment for displaying the
 1. First, install this module:
 
 ```
-$ git clone https://github.com/mcartmell/powerline-segment-sghaze
-$ cd powerline-segment-sghaze
-$ pip install .
+$ pip install git+https://github.com/mcartmell/powerline-segment-sghaze
 ```
 
 2. If you already have Powerline configuration in your `~/.config`, skip this step. Otherwise, copy the entire set of default Powerline configuration files to your user's config directory:
