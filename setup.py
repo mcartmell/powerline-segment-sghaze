@@ -6,5 +6,5 @@ setup(
     packages=['powerline_sghaze'],
     author='Mike Cartmell',
     description='Powerline segment for displaying PSI readings in Singapore',
-    license='Creative Commons Attribution-Noncommercial-Share Alike license'
+    license='MIT'
 )
